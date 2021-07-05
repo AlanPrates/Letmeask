@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Letmeask" />
+    Letmeask
 </h1>
 
 <br>
@@ -13,13 +13,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+<h1 align="center">
+ codigo das regras usados no firebase
+</h1>
+
+<br>
 
   
- <h1 align="center">
-  <img all="codigo das regras usados no firebase" />
-  
-</h1>
-<br>
+
 ```bash
 {
   "rules": {
